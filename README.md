@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed Adel
 - 👀 I’m interested in Robotics && Programming
-- 🌱 I’m currently learning Algorithms and Data Structures 
+- 🌱 I’m currently learning about Embedded Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohamedaadelezz3@gmail.com
 - Linked IN : https://www.linkedin.com/in/mohamed-adel-86908a1b7/
